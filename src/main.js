@@ -113,7 +113,7 @@ import '@/assets/styles.scss';
 //import 'primeicons/primeicons.css';          
 
 const firebaseConfig = {
-    apiKey: "AIzaSyA8lz61khk_M3cyNOz_p3XK8S3p5mmGce0",
+    apiKey: "***",
     authDomain: "mentalmatchapi.firebaseapp.com",
     databaseURL: "https://mentalmatchapi-default-rtdb.firebaseio.com",
     projectId: "mentalmatchapi",
